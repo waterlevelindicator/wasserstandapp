@@ -28,7 +28,7 @@ export default function signup() {
         <CardContent>
           <Stack spacing={3}>
             <TextField required="true" id="standard-basic" label="Kundennnummer" variant="standard" />
-            <Button variant="contained" disableElevation>
+            <Button  startIcon={<LoginIcon />} variant="contained" disableElevation>
               Anmelden
             </Button>
           </Stack>

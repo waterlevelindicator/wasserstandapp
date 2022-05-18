@@ -19,7 +19,7 @@ export default function signup() {
         <h2 className="Title">Wasserstanderfassung</h2>
         <p className="description">
         Herzlich Willkommen! <br></br>
-        Hier können Sie Ihren Wasserstand ganz simpel erfassen.
+        Hier könnenss Sie Ihren Wasserstand ganz simpel erfassen.
         </p>
       </div>
 
